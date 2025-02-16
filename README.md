@@ -10,7 +10,7 @@
 - Editor: Visual Studio Code (VSC)
 
 💬 ¡Conectemos!
-- Si tienes alguna pregunta o quieres hablar sobre proyectos, no dudes en contactarme a través de mi Discord: luisjpx288
+- Si tienes alguna pregunta o quieres hablar sobre proyectos, no dudes en contactarme a través de mi Discord: https://discord.com/users/luisjpx288
 
 
 
